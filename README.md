@@ -7,11 +7,13 @@ Up-to-date Gecko Codes for Fortune Street and Boom Street. We recommend using th
 
 #### [Boom Street Gecko Codes](https://github.com/FortuneStreetModding/Gecko-Codes/blob/main/ST7P01.ini)
 
-To use, add these to your Dolphin GameSettings directory. By default, User/Documents/Dolphin Emulator/GameSettings
+### Installation
+
+To use, add these to your Dolphin GameSettings directory. By default: User/Documents/Dolphin Emulator/GameSettings
 
 The filenames correspond to the Game IDs.
 
 ST7E01 = Fortune Street
 ST7P01 = Boom Street
 
-If you have a modified version of Fortune Street or Boom Street, you will need to rename the file to the modified Game ID. You can check the Game ID of your game in Dolphin if you're not sure.
+If you have a modified version of Fortune Street or Boom Street, you will need to rename the file to the modified Game ID. You can check the Game ID of your game in Dolphin by right clicking on the game and clicking Properties > Info.
