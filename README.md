@@ -1,9 +1,11 @@
 # Gecko-Codes
 Up-to-date Gecko Codes for Fortune Street and Boom Street. We recommend using these codes instead of the ones hosted on Gamehacking.org.
 
-#### [Fortune Street Gecko Codes](https://downgit.github.io/#/home?url=https://github.com/FortuneStreetModding/Gecko-Codes/blob/main/ST7E01.ini)
+### Download Links (Right Click and Save Linked Content to Download)
 
-#### [Boom Street Gecko Codes](https://downgit.github.io/#/home?url=https://github.com/FortuneStreetModding/Gecko-Codes/blob/main/ST7P01.ini)
+#### [Fortune Street Gecko Codes](https://github.com/FortuneStreetModding/Gecko-Codes/blob/main/ST7E01.ini)
+
+#### [Boom Street Gecko Codes](https://github.com/FortuneStreetModding/Gecko-Codes/blob/main/ST7P01.ini)
 
 To use, add these to your Dolphin GameSettings directory. By default, User/Documents/Dolphin Emulator/GameSettings
 
