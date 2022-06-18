@@ -18,4 +18,4 @@ ST7P01 = Boom Street
 
 If you have a modified version of Fortune Street or Boom Street, you will need to rename the file to the modified Game ID. You can check the Game ID of your game in Dolphin by right clicking on the game and clicking Properties > Info.
 
-Please note that installing these will overwrite your settings enabled for the game.
+Please note that installing these will overwrite your individual game settings.
