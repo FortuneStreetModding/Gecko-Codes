@@ -7,11 +7,11 @@ Up-to-date Gecko Codes for Fortune Street and Boom Street. We recommend using th
 
 #### Installation
 
-You can either add the codes you want to install individually by adding codes through Dolphin, or you can download the ini files directly and installing them into your Dolphin folder.
+You can either add the codes you want individually by adding them through Dolphin's Gecko Codes menu, or you can download the files directly and install them all at once. Please note that doing so will overwrite any of your individual game settings in Dolphin.
 
-To download, right click the above links and click Save Linked Content.
+To Download, right click the above links and click Save Linked Content as.
 
-To install, add these to your Dolphin GameSettings directory. By default: User/Documents/Dolphin Emulator/GameSettings
+To Install, add these to your Dolphin GameSettings directory. By default: User/Documents/Dolphin Emulator/GameSettings
 
 The filenames correspond to the Game IDs:
 
