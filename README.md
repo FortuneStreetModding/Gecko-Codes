@@ -1,4 +1,4 @@
-# Gecko-Codes
+# Gecko Codes
 Up-to-date Gecko Codes for Fortune Street and Boom Street. We recommend using these codes instead of the ones hosted on Gamehacking.org.
 
 ### Direct Downloads (Right Click and Save Linked Content to Download)
