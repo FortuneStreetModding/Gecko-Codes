@@ -13,6 +13,8 @@ To Download, right click the above links and click Save Linked Content as.
 
 To Install, add these to your Dolphin GameSettings directory. By default: User/Documents/Dolphin Emulator/GameSettings
 
+Make sure you have Enable Cheats checked in Dolphin under Config.
+
 The filenames correspond to the Game IDs:
 
 ST7E01 = Fortune Street
