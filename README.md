@@ -7,7 +7,7 @@ Up-to-date Gecko Codes for Fortune Street and Boom Street. We recommend using th
 
 #### Installation
 
-You can either add the codes you want individually by adding them through Dolphin's Gecko Codes menu, or you can download the files directly and install them all at once. Please note that doing so will overwrite any of your individual game settings in Dolphin.
+You can either add the codes you want individually by adding them through Dolphin's Gecko Codes menu, or you can download the files directly and install them all at once. Please note that doing so will overwrite any of your individual game settings for that game ID in Dolphin.
 
 To Download, right click the above links and click Save Linked Content as.
 
