@@ -23,4 +23,6 @@ ST7P01 = Boom Street
 
 If you have a modified version of Fortune Street or Boom Street, you may need to rename the file to the modified Game ID. You can check the Game ID of your game in Dolphin by right clicking on the game and clicking Properties > Info.
 
+By default, CSMM-modified games have the respective IDs of ST7E02 and ST7P02. 
+
 If you have any codes you'd like to add, let us know on [Discord](https://discord.gg/DE9Hn7T).
