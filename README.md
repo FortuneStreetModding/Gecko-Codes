@@ -14,7 +14,7 @@ You can either add the codes you want individually by adding them through Dolphi
 
 To Download, right click the appropriate link above and click "Save Linked Content as".
 
-To Install, add these to your Dolphin GameSettings directory. By default it should be: User/Documents/Dolphin Emulator/GameSettings
+To Install, add these to your Dolphin GameSettings directory. By default it should be: %appdata%/Dolphin Emulator/GameSettings
 
 Make sure you have Enable Cheats checked in Dolphin under Config.
 
